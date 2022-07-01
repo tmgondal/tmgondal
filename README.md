@@ -1,9 +1,4 @@
 ### Hi there!
-<p align="center"><a href="https://sites.google.com/view/engrtaimoor"><img width="80%" alt="Hello, I'm Taimoor. I Love to Code!" src="./assets/gh-readme-header.png" /></a></p>
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-<br />
 
 <!--
 **tmgondal/tmgondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
