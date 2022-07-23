@@ -1,7 +1,7 @@
 ### Hello Every One!
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
 
-🔭 My Educational Backgroun<br>
+🔭 My Educational Background<br>
 Engr. Taimoor Muzaffar Gondal did his Master of Electrical Engineering degree from COMSATS University Islamabad, Lahore Campus, Pakistan. He did his Bachelors of Electrical Engineering from COMSATS Institute of Information Technology, Wah Campus (Currently known as COMSATS University Islamabad, Wah Campus).
 
 <i>🔭 Check out my Profile Below</i>
