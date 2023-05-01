@@ -1,6 +1,6 @@
 ### Hello Every One <meta name="google-site-verification" content="1TSVM4vQ7-sj-0pzuUv35NhrTfSt3ooV4mW_YtBz3wk" />!
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
-
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmgondal/)](https://www.linkedin.com/in/tmgondal/)
 <meta name="google-site-verification" content="1TSVM4vQ7-sj-0pzuUv35NhrTfSt3ooV4mW_YtBz3wk" />
 
 🔭 My Educational Background<br>
