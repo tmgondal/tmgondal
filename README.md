@@ -59,14 +59,14 @@ J1-<!-- Read Here -->
 C1-<!-- Read Here -->
   <a href="https://ieeexplore.ieee.org/abstract/document/9080729">
     <img src="https://img.shields.io/badge/Click to%20Read-blue?style=flat-square" alt="Read Here">- Mujahid T, Gondal TM, Bashir H, ur Rehman S. Cost Effective Automated Monitoring System for Induction Motor Faults. In 2020 International Conference on Emerging Trends in Smart Technologies (ICETST) 2020 Mar 26 (pp. 1-6). IEEE <br>
-C2- <!-- Read Here -->
+C2-<!-- Read Here -->
   <a href="https://ieeexplore.ieee.org/abstract/document/8673454">
     <img src="https://img.shields.io/badge/Click to%20Read-blue?style=flat-square" alt="Read Here">- Gondal TM, Hameed Z, Shah MU, Khan H. Cavitation phenomenon and its effects in Francis turbines and amassed adeptness of hydel power plant. In 2019 2nd International Conference on Computing, Mathematics and Engineering Technologies (iCoMET) 2019 Jan 30 (pp. 1-9). IEEE <br>
-C3- <!-- Read Here -->
-  <a href="[https://ieeexplore.ieee.org/abstract/document/8673392]">
+C3-<!-- Read Here -->
+  <a href="https://ieeexplore.ieee.org/abstract/document/8673392">
     <img src="https://img.shields.io/badge/Click to%20Read-blue?style=flat-square" alt="Read Here">- Malik SA, Gondal TM, Ahmad S, Adil M, Qureshi R. Towards optimization approaches in smart grid a review. In 2019 2nd International Conference on Computing, Mathematics and Engineering Technologies (iCoMET) 2019 Jan 30 (pp. 1-5). IEEE <br>
-C4-  <!-- Read Here -->
-  <a href="[https://ieeexplore.ieee.org/abstract/document/8715993]">
+C4-<!-- Read Here -->
+  <a href="https://ieeexplore.ieee.org/abstract/document/8715993">
     <img src="https://img.shields.io/badge/Click to%20Read-blue?style=flat-square" alt="Read Here">- Ahmed S, Gondal TM, Adil M, Malik SA, Qureshi R. A survey on communication technologies in smart grid. In 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) 2019 Mar 19 (pp. 7-12). IEEE <br>
 ### 🔭Academic Supervisions <br>
 
