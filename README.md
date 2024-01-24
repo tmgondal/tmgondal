@@ -2,23 +2,21 @@
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
 
 <!-- Badges -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 name: Update badges
 
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <username_credly> # optional, but default will use the same from github
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+        uses: taimoor-muzaffar-gondal/badges
 
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
