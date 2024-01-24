@@ -17,7 +17,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: taimoor-muzaffar-gondal/badges
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
   <img src="https://img.shields.io/badge/Web%20of%20Science-Academy%20Graduate-orange?style=flat-square" alt="Web of Science Academy Graduate & Mentor">
