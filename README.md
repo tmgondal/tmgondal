@@ -2,9 +2,8 @@
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
 
 <!-- Badges -->
-<!-- Embedding Credly Badge -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef9d9d22-6bfa-417c-8d3c-8e03044ab77d" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+![Content Creation Level 3 Badge](https://github.com/tmgondal/tmgondal/blob/main/content-creation-level-3%20(1).png)
 
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
