@@ -2,23 +2,8 @@
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
 
 <!-- Badges -->
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-name: Update badges
+[![Your Badge](https://www.credly.com/badges/ef9d9d22-6bfa-417c-8d3c-8e03044ab77d/public_url)](https://www.credly.com/badges/ef9d9d22-6bfa-417c-8d3c-8e03044ab77d/public_url)
 
-on:
-  schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: taimoor-muzaffar-gondal/badges
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
   <img src="https://img.shields.io/badge/Web%20of%20Science-Academy%20Graduate-orange?style=flat-square" alt="Web of Science Academy Graduate & Mentor">
