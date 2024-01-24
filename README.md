@@ -2,6 +2,24 @@
 ### I am Taimoor Muzaffar Gondal [Call me Gondal]
 
 <!-- Badges -->
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
   <img src="https://img.shields.io/badge/Web%20of%20Science-Academy%20Graduate-orange?style=flat-square" alt="Web of Science Academy Graduate & Mentor">
@@ -23,7 +41,6 @@
   <img src="https://img.shields.io/badge/Approved%20Industrial%20Supervisor-Pakistan%20Engineering%20Council-blueviolet?style=flat-square" alt="Approved Industrial Supervisor">
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef9d9d22-6bfa-417c-8d3c-8e03044ab77d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 🔭 My Educational Background<br>
 Engr. Taimoor Muzaffar Gondal did his Master of Electrical Engineering degree from COMSATS University Islamabad, Lahore Campus, Pakistan. He did his Bachelors of Electrical Engineering from COMSATS Institute of Information Technology, Wah Campus (Currently known as COMSATS University Islamabad, Wah Campus).
