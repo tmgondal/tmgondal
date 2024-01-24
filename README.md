@@ -4,6 +4,10 @@
 <!-- Badges -->
 
 ![Content Creation Level 3 Badge](https://github.com/tmgondal/tmgondal/blob/main/content-creation-level-3%20(1).png)
+![Content Creation Level 2 Badge](https://github.com/tmgondal/tmgondal/blob/main/content-creation-level-2.png)
+![Data Science Foundations Level 1 Badge](https://github.com/tmgondal/tmgondal/blob/main/data-science-foundations-level-1.png)
+![Python for Data Science Badge](https://github.com/tmgondal/tmgondal/blob/main/python-for-data-science.png)
+
 
 <p align="center">
   <!-- Web of Science Academy Graduate & Mentor -->
