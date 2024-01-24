@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Approved%20Industrial%20Supervisor-Pakistan%20Engineering%20Council-blueviolet?style=flat-square" alt="Approved Industrial Supervisor">
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef9d9d22-6bfa-417c-8d3c-8e03044ab77d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 🔭 My Educational Background<br>
 Engr. Taimoor Muzaffar Gondal did his Master of Electrical Engineering degree from COMSATS University Islamabad, Lahore Campus, Pakistan. He did his Bachelors of Electrical Engineering from COMSATS Institute of Information Technology, Wah Campus (Currently known as COMSATS University Islamabad, Wah Campus).
 
