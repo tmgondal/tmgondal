@@ -1,33 +1,24 @@
 # Hi, I'm Taimoor Muzaffar Gondal
 
 ## About Me
-- Electrical Engineer | AI Practitioner
-- Passionate about data science, machine learning, and smart grids
-- Experienced in research, teaching, and engineering project supervision
+Electrical Engineer & AI Practitioner focused on data science, smart grids, and machine learning. I enjoy building impactful solutions and mentoring others in technology.
 
 ## Education
-- **MS, Electrical Engineering**  
-  COMSATS University Islamabad, Lahore (2019-2021)  
-- **BS, Electrical Engineering**  
-  COMSATS Institute of Information Technology, Wah (2013-2017)  
+- **MS in Electrical Engineering**  
+  COMSATS University Islamabad, Lahore (2019–2021)
+- **BS in Electrical Engineering**  
+  COMSATS Institute of Information Technology, Wah (2013–2017)
 
 ## Experience
-- AI Practitioner, AI-Studio, Lahore (2022–Present)
-- Manager Labs & Lecturer, The Superior University Lahore (2022)
-- Lab Engineer, The Superior University Lahore (2018–2022)
+- **AI Practitioner** — AI-Studio, Lahore (2022–Present)
+- **Manager Labs & Lecturer** — The Superior University Lahore (2022)
+- **Lab Engineer** — The Superior University Lahore (2018–2022)
 
 ## Research Interests
 - Anomaly detection in power systems
 - Time series forecasting
-- Smart grid technologies
+- Smart grids
 - Deep learning and AI applications
-
-## Selected Publications
-- Load management in microgrids with PSO-fuzzy hybrid approach  
-- Automated induction motor fault monitoring  
-- Cavitation in Francis turbines  
-- Smart grid optimization approaches  
-- Smart grid communication technologies  
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tmgondal/)
@@ -37,4 +28,4 @@
 
 ---
 
-*Let's connect and collaborate on exciting projects!*
+*Open to collaborations and always eager to connect!*
